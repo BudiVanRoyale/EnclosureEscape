@@ -1,6 +1,6 @@
 # EnclosureEscape
 
-EnclosureEscape is a browser game that was created during JCU Retro Inspired Game Jam 2016 @ JCU Singapore.The game is about a gorilla that was doing his own "gorilla" things in his zoo enclosure and one day, a child suddenly falls into the enclosure and being a friendly gorilla, he wanted to save the child. However, he got shot by the zookeeper so that there are no more risk of the child dying.
+EnclosureEscape is a browser game that was created during **JCU Retro Inspired Game Jam 2016 @ JCU Singapore**.The game is about a gorilla that was doing his own "gorilla" things in his zoo enclosure and one day, a child suddenly falls into the enclosure and being a friendly gorilla, he wanted to save the child. However, he got shot by the zookeeper so that there are no more risk of the child dying.
 
 ## Preview
 ![Main menu](http://i.imgur.com/YH9JqqV.png)
