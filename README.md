@@ -8,7 +8,9 @@ EnclosureEscape is a browser game that was created during JCU Retro Inspired Gam
 
 ## Controls
 Spacebar - Gorilla Punch
+
 WASD - Movement
+
 LShift - Sprint
 
 ## Credits
